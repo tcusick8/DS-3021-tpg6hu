@@ -1,0 +1,44 @@
+# Cusick, Thomas - Case Study 1 1/23/2025
+
+## Problem Focus Questions
+
+# Q1: What problems are facing the organization? 
+### There are billions of dollars being wasted every year within the US education system on education software
+
+# Q2: What is the target variable and what type (reg or class) of solution are they developing? 
+### The target variable is which software program would be most sucessful for each school. The variable type would be
+class, because the model is determining which software is best for each school 
+
+# Q3: How would they know the solution was working (business metric)? 
+### If there was less 'wasted' money the solution would be working. This would be determined by
+less spending on multiple softwares while having increasing test scores - and positive teacher reviews. 
+
+# Q4: What other issues might the team be facing?
+### The dataset is relatively small, and it includes biases and noise because of subjective survery responses and varying opinions 
+
+
+## Data to Concept Questions
+
+# Q1: How difficult is the data to gather? 
+### The data would be semi difficult to gather due to the fact that multiple different school districts
+and multiple schools within each district would need to be willing to contribute in order to have 
+a more holistic and well rounded data set. The dataset would need representation from multiple variable, 
+one of which being data from rural, suburban, and urban areas. 
+
+# Q2: Is the target difficult to measure or break into smaller parts? 
+### The target is difficult to measure because the measure of success is subjective. Teacher reviews are subjective,
+and even test scores are not always good measures of a students learning or understanding of a specific topic. 
+Additionally, school districts are all of varying sizes, ie in New York City District 6 there are 38 schools,
+where as in Cresskill NJ there are 4 schools in the entire district. So to group or stratify would pose as 
+quite the hurdle.  
+
+
+# Q3: What level of uncertainty (risk) are you willing to accept?
+### To start, I would say any progress even if minimal would be awesome. This is a huge task and success might
+stem just from chipping away at it. As more data is collected and results funnel in the model would
+become more and more accurate leading to better overall results. 
+
+
+
+
+
